@@ -68,7 +68,7 @@
 
 #
 
-![Community Software Developers](https://img.shields.io/badge/👑Contact/SocialMedia%20Of-SoftDevsCommunity%20[%20Community%20Software%20Developers%20]-ffd975?style=for-the-badge)
+![Community Software Developers](https://img.shields.io/badge/👑Contact/SocialMedia%20Of-SoftDevsCommunity%20[%20Community%20Software%20Developers%20]👑-ffd975?style=for-the-badge)
 
 
 ***To go to the community on `Github`:*** [SD](https://github.com/SoftDevsCommunity)
