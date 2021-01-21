@@ -1,16 +1,18 @@
-### Hi there 👋
+### 
 
-<!--
-**Honil05/Honil05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Honil05.visitor-badge)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about whatever you want
+- 📫 How to reach me: DM
+- 😄 Pronouns: I can't tell you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Noheli Baas's github stats](https://github-readme-stats.vercel.app/api?username=Honil05&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true)](https://github.com/Honil05/github-readme-stats)
+
+<a href="https://github.com/Honil05/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Honil05&repo=github-readme-stats&show_owner=true&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
+</a>
+<a href="https://github.com/Honil05/Honil05">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Honil05&repo=Honil05&show_owner=true&show_icons=true&title_color=61dafb&icon_color=CB88FF&text_color=ffffff&bg_color=000000&show_icons=true" />
+</a>
+![alt text](http://url/to/img.png)
