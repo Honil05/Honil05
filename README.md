@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Honil05/Honil05/blob/main/Resource/NoheliBaas.png" width=100% alt="accessibility text">
+  <img src="https://github.com/Honil05/Honil05/blob/main/Resource/Noheli.png" width=100% alt="accessibility text">
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Honil05.visitor-badge)
